@@ -1,5 +1,5 @@
 # intro-probab
-Apostila de Introdução à Probabilidade
+Introdução à Probabilidade: Notas de aula
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
